@@ -13,5 +13,5 @@ func Read(name string, age int) {
 }
 
 func main() {
-	Read(Write()) // 迈莫coding  已经  1  岁
+	Read(Write())
 }
